@@ -55,8 +55,8 @@ The following masks have been generated
 
 ### Videos
 
-- With RESNET and UNET https://drive.google.com/file/d/1r29oBECa-1zw425y2t8SzA91jlzfoJfg/view?usp=sharing
-- With Custom Model https://drive.google.com/file/d/1ludgU0OSnIXkzqrkePuzxHh1qYYUal5z/view?usp=sharing
+- With RESNET and UNET https://drive.google.com/file/d/1ludgU0OSnIXkzqrkePuzxHh1qYYUal5z/view?usp=sharing
+- With Custom Model https://drive.google.com/file/d/1r29oBECa-1zw425y2t8SzA91jlzfoJfg/view?usp=sharing
 
 
 
